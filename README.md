@@ -7,11 +7,11 @@ Organized by ResetHacker
 ---
 ![Base: 1](https://miro.medium.com/max/490/1*fQWAWQXWeJKMhPqg9ENQxw.png "Base: 1")
 ***
-flag submitted by _@hack3r_oneness_ , **Captain**
+flag submitted by [_@hack3r_oneness_](https://www.instagram.com/hack3r_oneness/) , **Captain**
 
 This flag was very simple but when i first looked at this i was quite confused. I thought it is ROT13, by the time i figured it out what it was my teammate already submitted the flag
 
-It was quite simple the text was reversed. I used Cyberchef tool to get the flag, whereas you can do it manually too
+It was quite simple the text was reversed. I used [Cyberchef](http://icyberchef.com/) tool to get the flag, whereas you can do it manually too
 
 ---
 ![](https://samaritan106.files.wordpress.com/2020/08/base.png?w=1024)
@@ -22,7 +22,7 @@ After reversing this **“}GALF_NOCTSER{NOCTSER”** and i got the Flag: **“RE
 ---
 ![](https://samaritan106.files.wordpress.com/2020/08/1.png)
 ***
-flag submitted by _@106_Sam_ , **CTF Team member** 
+flag submitted by [_@106_Sam_](https://www.instagram.com/106_sam/) , **CTF Team member** 
 
 A hacker can guess at a glance that it is encoded in BASE64 **“UkVTVENPTntSRVNUQ09OXzJORF9CQVNJQ19GTEFHfQ==“**
 
@@ -40,16 +40,16 @@ Flag: **RESTCON{RESTCON_2ND_BASIC_FLAG}**
 ---
 ![](https://samaritan106.files.wordpress.com/2020/08/1-1.png)
 ***
-flag submitted by _@JayaLakshmi_ , **CTF Team member**
+flag submitted by [_@JayaLakshmi_](https://www.instagram.com/jayalakshmi7599/) , **CTF Team member**
 
 In this Challenge they gave file named “Chal.txt”. We can download the file by clicking on the ” Chal file ” . But i used Linux Command “wget <file-URL>” and downloaded in specific folder through my terminal 
   
-When i opened this file i saw this text **“ ;FOM6VgI(;FOM6VgHa5u(3T84?E`6:”OA6XN;V5t?> “**`
+When i opened this file i saw this text ```“ ;FOM6VgI(;FOM6VgHa5u(3T84?E`6:”OA6XN;V5t?> “```
 
 ---
 ![](https://samaritan106.files.wordpress.com/2020/08/2-1.png)
 ***
-Got to know that it is ASCII85 by searching on cryptii website after decoding i got the flag.
+Got to know that it is ASCII85 by searching on [cryptii](https://cryptii.com/) website after decoding i got the flag.
 
 ---
 ![](https://samaritan106.files.wordpress.com/2020/08/3.png?w=1024)
