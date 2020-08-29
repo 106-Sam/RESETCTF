@@ -1,5 +1,7 @@
 # RestConCTF writeup
 Organized by **_ResetHacker_**
+
+---
 **Date**: _28 August 2020 10:30am - 11:59pm (IST)_
 
 ## Basic Challenge: 
@@ -17,7 +19,7 @@ It was quite simple the text was reversed. I used [Cyberchef](http://icyberchef.
 ---
 ![](https://samaritan106.files.wordpress.com/2020/08/base.png?w=1024)
 ***
-After reversing this **“}GALF_NOCTSER{NOCTSER”** and i got the Flag: **“RESTCON{RESTCON_FLAG}“**
+After reversing this **`“}GALF_NOCTSER{NOCTSER”`** and i got the Flag: **“RESTCON{RESTCON_FLAG}“**
 
 # Base: 2:-
 ---
@@ -25,7 +27,7 @@ After reversing this **“}GALF_NOCTSER{NOCTSER”** and i got the Flag: **“RE
 ***
 flag submitted by [_@106_Sam_](https://www.instagram.com/106_sam/) , **CTF Team member** 
 
-A hacker can guess at a glance that it is encoded in BASE64 **“UkVTVENPTntSRVNUQ09OXzJORF9CQVNJQ19GTEFHfQ==“**
+A hacker can guess at a glance that it is encoded in BASE64 **`“UkVTVENPTntSRVNUQ09OXzJORF9CQVNJQ19GTEFHfQ==“`**
 
 > _Note:- Base64 has “==” at the end of their strings_
 
