@@ -16,7 +16,7 @@ It was quite simple the text was reversed. I used Cyberchef tool to get the flag
 ---
 ![](https://samaritan106.files.wordpress.com/2020/08/base.png?w=1024)
 ***
-After reversing this **“}GALF_NOCTSER{NOCTSER”** and i got the flag **“RESTCON{RESTCON_FLAG}“**
+After reversing this **“}GALF_NOCTSER{NOCTSER”** and i got the >Flag: **“RESTCON{RESTCON_FLAG}“**
 
 # Base: 2:-
 ---
@@ -27,3 +27,11 @@ flag submitted by _@106_Sam_ , **CTF Team member**
 A hacker can guess at a glance that it is encoded in BASE64 **“UkVTVENPTntSRVNUQ09OXzJORF9CQVNJQ19GTEFHfQ==“**
 
 > _Note:- Base64 has “==” at the end of their strings_
+
+In CyberChef, search “Base64” in search box drag and drop it in Recipe column and paste the above text in input column 
+
+---
+![](https://samaritan106.files.wordpress.com/2020/08/2.png?w=1024)
+***
+
+>Flag: RESTCON{RESTCON_2ND_BASIC_FLAG}
