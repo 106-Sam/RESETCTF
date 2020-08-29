@@ -47,7 +47,7 @@ flag submitted by [_@JayaLakshmi_](https://www.instagram.com/jayalakshmi7599/) ,
 
 In this Challenge they gave file named “Chal.txt”. We can download the file by clicking on the ” Chal file ” . But i used Linux Command “wget <file-URL>” and downloaded in specific folder through my terminal 
   
-When i opened this file i saw this text ```“ ;FOM6VgI(;FOM6VgHa5u(3T84?E`6:”OA6XN;V5t?> “```
+When i opened this file i saw this text **```“ ;FOM6VgI(;FOM6VgHa5u(3T84?E`6:”OA6XN;V5t?> “```**
 
 ---
 ![](https://samaritan106.files.wordpress.com/2020/08/2-1.png)
