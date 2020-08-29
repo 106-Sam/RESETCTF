@@ -44,3 +44,15 @@ flag submitted by _@JayaLakshmi_ , **CTF Team member**
 
 In this Challenge they gave file named “Chal.txt”. We can download the file by clicking on the ” Chal file ” . But i used Linux Command “wget <file-URL>” and downloaded in specific folder through my terminal 
   
+When i opened this file i saw this text **“ ;FOM6VgI(;FOM6VgHa5u(3T84?E`6:”OA6XN;V5t?> “**`
+
+---
+![](https://samaritan106.files.wordpress.com/2020/08/2-1.png)
+***
+Got to know that it is ASCII85 by searching on cryptii website after decoding i got the flag.
+
+---
+![](https://samaritan106.files.wordpress.com/2020/08/3.png?w=1024)
+***
+
+Flag: **RESTCON{RESTCON_ANOTHER_BASIC_FLAG}**
