@@ -16,7 +16,7 @@ It was quite simple the text was reversed. I used Cyberchef tool to get the flag
 ---
 ![](https://samaritan106.files.wordpress.com/2020/08/base.png?w=1024)
 ***
-After reversing this **“}GALF_NOCTSER{NOCTSER”** and i got the >Flag: **“RESTCON{RESTCON_FLAG}“**
+After reversing this **“}GALF_NOCTSER{NOCTSER”** and i got the Flag: **“RESTCON{RESTCON_FLAG}“**
 
 # Base: 2:-
 ---
@@ -34,4 +34,13 @@ In CyberChef, search “Base64” in search box drag and drop it in Recipe colum
 ![](https://samaritan106.files.wordpress.com/2020/08/2.png?w=1024)
 ***
 
->Flag: RESTCON{RESTCON_2ND_BASIC_FLAG}
+Flag: **RESTCON{RESTCON_2ND_BASIC_FLAG}**
+
+# Base: 3
+---
+![](https://samaritan106.files.wordpress.com/2020/08/1-1.png)
+***
+flag submitted by _@JayaLakshmi_ , **CTF Team member**
+
+In this Challenge they gave file named “Chal.txt”. We can download the file by clicking on the ” Chal file ” . But i used Linux Command “wget <file-URL>” and downloaded in specific folder through my terminal 
+  
