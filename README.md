@@ -16,3 +16,4 @@ It was quite simple the text was reversed. I used Cyberchef tool to get the flag
 ---
 ![](https://samaritan106.files.wordpress.com/2020/08/base.png?w=1024)
 ***
+After reversing this **“}GALF_NOCTSER{NOCTSER”** and i got the flag **“RESTCON{RESTCON_FLAG}“**
