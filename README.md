@@ -1,5 +1,6 @@
 # RestConCTF writeup
-Organized by ResetHacker
+Organized by **_ResetHacker_**
+**Date**: _28 August 2020 10:30am - 11:59pm (IST)_
 
 ## Basic Challenge: 
 
